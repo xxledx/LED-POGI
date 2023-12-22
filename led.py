@@ -16,7 +16,8 @@ tan=('https')
 iya=('github')
 ani=('Fariya')
 love=('mbasic')
-ugen
+ugen=[]
+ugen=[]
 useragent=[]
 for xd in range(10000):
         aa='Mozilla/5.0 (Linux; U; Android'
